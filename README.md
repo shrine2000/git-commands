@@ -142,6 +142,12 @@ Apply a specific commit to the current branch:
  
 `git cherry-pick <commit_id>` 
 
+
+### Remove Git from project
+
+`rm -rf .git*`
+
+
 ### Git Rebase
 
 Rebase the current branch onto another branch:
